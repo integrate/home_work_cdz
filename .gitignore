@@ -1,0 +1,15 @@
+# Сборка Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Зависимости (если позже понадобится локальный Jekyll)
+Gemfile.lock
+vendor/
+.bundle/
+
+# Прочее
+.DS_Store
+Thumbs.db
+*.log
